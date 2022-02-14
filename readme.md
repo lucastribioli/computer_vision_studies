@@ -6,7 +6,7 @@
 
  * Python 3.6.9
    
-### libs
+### Libs
  * cycler 0.10.0
  * joblib 1.1.0
  * kiwisolver 1.3.1
